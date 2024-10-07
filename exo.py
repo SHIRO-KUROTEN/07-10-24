@@ -1,4 +1,5 @@
 #cree un comparateur des deux valeur #
+# int transforme le input en nombre entier #
 nombre_1 = int(input("premier nombre : ")) #demande a l utilisateur d entree un nombre #
 nombre_2 = int(input("deusieme nombre : ")) #demande d en entree un autre #
 if nombre_1 <= nombre_2:  # les compart#
